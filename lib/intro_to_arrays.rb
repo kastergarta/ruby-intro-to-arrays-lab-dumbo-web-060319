@@ -23,6 +23,12 @@ def last_element(n)
   return n[-1]
 end  
 
-def first_element_with_array_methods()
+def first_element_with_array_methods(o)
   @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  return o.first
 end  
+
+def last_element_with_array_methods(p)
+  @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  return p.last
+end 
