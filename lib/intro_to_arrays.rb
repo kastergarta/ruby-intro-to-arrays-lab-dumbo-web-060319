@@ -8,5 +8,5 @@ end
 
 def first_element(i)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  return @taylor_swift[i]
+  return i[0]
 end  
