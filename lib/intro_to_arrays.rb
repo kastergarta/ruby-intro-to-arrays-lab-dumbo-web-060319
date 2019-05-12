@@ -12,7 +12,7 @@ def first_element(i)
   return i[0]
 end  
 
-def first_element(i)
-  @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  return i[2]
-end  
+# def first_element(i)
+#   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+#   return i[2]
+# end  
