@@ -13,5 +13,7 @@ def first_element(i)
   return i[0]
 end  
 
-
-
+def third_element(m)
+  @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  return m[2]
+end  
