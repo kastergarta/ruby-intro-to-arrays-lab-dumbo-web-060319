@@ -32,3 +32,7 @@ def last_element_with_array_methods(p)
   @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   return p.last
 end 
+
+def length_of_array()
+  
+end  
