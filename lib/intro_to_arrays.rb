@@ -22,3 +22,7 @@ def last_element(n)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   return n[-1]
 end  
+
+def first_element_with_array_methods()
+  
+end  
