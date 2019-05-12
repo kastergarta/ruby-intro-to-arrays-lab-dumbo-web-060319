@@ -18,7 +18,7 @@ def third_element(m)
   return m[2]
 end  
 
-def third_element(m)
+def last_element(n)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  return m[2]
+  return n[-1]
 end  
