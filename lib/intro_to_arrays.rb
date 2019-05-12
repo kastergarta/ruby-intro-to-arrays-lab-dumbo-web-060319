@@ -33,7 +33,7 @@ def last_element_with_array_methods(p)
   return p.last
 end 
 
-def length_of_array()
+def length_of_array(r)
   @programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
-  
+  return r.length
 end  
